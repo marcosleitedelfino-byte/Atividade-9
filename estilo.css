@@ -18,7 +18,7 @@ body {
 /* Organiza as imagens em três colunas. */
 .galeria {
   display: grid;
-  grid-template-columns: repeat(3, 200px);
+  grid-template-columns: repeat(4, 200px);
   gap: 20px;
   padding: 20px;
 }
@@ -30,7 +30,7 @@ body {
   height: 200px;
   padding: 0;
   border: none;
-  border-radius: 15px;
+  border-radius: 100px;
 
 
   /* A transparência da imagem revela este fundo branco. */
